@@ -8,3 +8,5 @@
 #### 手机版加速地址:
 #### https://raw.sevencdn.com/gyhxxx/freedtv/main/sj/
 ## 注意别漏掉最后的斜杠!!!!!!
+
+https://cdn.jsdelivr.net/gh/gyhxx/freedtv@main/
